@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Teka Teki Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_donaturresmi">Teka Teki Gambar</string>
+    <string name="title_activity_jejakatakut">Teka Teki Gambar</string>
+    <string name="title_activity_kodok">Teka Teki Gambar</string>
+    <string name="title_activity_memutar">Teka Teki Gambar</string>
+    <string name="title_activity_obesitas">ObesitasActivity</string>
+    <string name="title_activity_otak">Teka Teki Gambar</string>
+    <string name="title_activity_penyusutan">Teka Teki Gambar</string>
+    <string name="title_activity_perangko">Teka Teki Gambar</string>
+    <string name="title_activity_jangan">Teka Teki Gambar</string>
+    <string name="title_activity_obesitass">Teka Teki Gambar</string>
+    <string name="title_activity_congrats">Teka Teki Gambar</string>
+
+</resources>

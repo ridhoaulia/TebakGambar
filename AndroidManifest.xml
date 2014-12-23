@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ridho.tekatekigambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DonaturresmiActivity"
+            android:label="@string/title_activity_donaturresmi" >
+        </activity>
+        <activity
+            android:name=".JejakatakutActivity"
+            android:label="@string/title_activity_jejakatakut" >
+        </activity>
+        <activity
+            android:name=".KodokActivity"
+            android:label="@string/title_activity_kodok" >
+        </activity>
+        <activity
+            android:name=".MemutarActivity"
+            android:label="@string/title_activity_memutar" >
+        </activity>
+        <activity
+            android:name=".ObesitasActivity"
+            android:label="@string/title_activity_obesitas" >
+        </activity>
+        <activity
+            android:name=".OtakActivity"
+            android:label="@string/title_activity_otak" >
+        </activity>
+        <activity
+            android:name=".PenyusutanActivity"
+            android:label="@string/title_activity_penyusutan" >
+        </activity>
+        <activity
+            android:name=".PerangkoActivity"
+            android:label="@string/title_activity_perangko" >
+        </activity>
+        <activity
+            android:name=".JanganActivity"
+            android:label="@string/title_activity_jangan" >
+        </activity>
+        <activity
+            android:name=".ObesitassActivity"
+            android:label="@string/title_activity_obesitass" >
+        </activity>
+        <activity
+            android:name=".CongratsActivity"
+            android:label="@string/title_activity_congrats" >
+        </activity>
+    </application>
+
+</manifest>
